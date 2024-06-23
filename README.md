@@ -20,26 +20,6 @@ Visto que podemos perceber o fluxo de horário que mais tem problema, quais cola
 - Análise dos tipos de problemas mais comuns.
 - Identificação dos nomes com mais tickets criados.
 
-## Instalação
-
-1. Clone o repositório para sua máquina local.
-    ```bash
-    git clone https://github.com/willianbarbao/analise_ticket_ti.git
-    ```
-2. Navegue até o diretório do projeto.
-    ```bash
-    cd seu-repositorio
-    ```
-3. Crie e ative um ambiente virtual (opcional, mas recomendado).
-    ```bash
-    python -m venv venv
-    source venv/bin/activate  # No Windows, use `venv\Scripts\activate`
-    ```
-4. Instale as dependências do projeto.
-    ```bash
-    pip install -r requirements.txt
-    ```
-
 ## Uso
 
 1. Certifique-se de que você tem o arquivo `tickets_ti.xlsx` no diretório especificado no script ou atualize o caminho do arquivo conforme necessário.
