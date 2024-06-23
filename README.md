@@ -24,7 +24,7 @@ Visto que podemos perceber o fluxo de horário que mais tem problema, quais cola
 
 1. Clone o repositório para sua máquina local.
     ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
+    git clone https://github.com/willianbarbao/analise_ticket_ti.git
     ```
 2. Navegue até o diretório do projeto.
     ```bash
