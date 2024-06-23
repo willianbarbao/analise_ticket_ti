@@ -9,8 +9,6 @@ Visando otimizar recursos de tecnologia como o tempo, faço aqui uma análise do
 
 Vejo essa análise necessária para empresas onde tem essa função de suporte de TI.
 
-Visto que podemos perceber o fluxo de horário que mais tem problema, quais colaboradores tem mais dificuldade com tecnologia, onde focar nossa atenção no ti e fazer uma previsão de como será o restante de dias as demandas de TI. Podendo assim estar mais preparados e diminuir o tempo decorrido até a resolução.
-
 ## Funcionalidades
 
 - Análise do horário com mais criação de tickets.
